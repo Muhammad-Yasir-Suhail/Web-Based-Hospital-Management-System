@@ -1,4 +1,4 @@
-# Hospital Management (DB_Labs/hospital)
+# Hospital Management 
 
 A small PHP-based hospital management demo containing simple forms and reports. The app is intended to run on a local LAMP/WAMP stack (XAMPP is recommended).
 
@@ -31,10 +31,7 @@ If you don't have a schema file, create the tables manually or through phpMyAdmi
 - Database connection is stored in includes/db.php. Open and edit it to set $host, $user, $pass, and $dbname.
 
 ## Run / Usage
-1. Browse to the application in your browser. Example URL:
-
-http://localhost/DB_Labs/hospital/
-
+1. Browse to the application in your browser.
 2. Use the links on the homepage to access forms under /forms and reports under /reports.
 
 ## Project Layout
